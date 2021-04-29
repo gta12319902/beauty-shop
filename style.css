@@ -1,0 +1,31 @@
+body {
+  background-color: #ffffff;
+}
+
+.page {
+  border: 1px solid rgb();
+  background-color: #ffffff;
+  padding: inherit;
+}
+
+.rightpic {
+  float: right;
+  margin: 0 0 5px 5px;
+}
+
+.section {
+  display: flex;
+}
+
+.wrapper {
+  margin-left: 140px;
+}
+
+.nav__list,
+.header__content {
+  display: flex;
+}
+
+.nav__li {
+  list-style: none;
+}
